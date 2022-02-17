@@ -1,0 +1,21 @@
+{
+"data": {
+"calldate": 1632782408,
+"callid": dd8d5a30-1fe3-11ec-af76-a9e254ddad02,
+"duration": 70,
+"amount": 0.0080,
+"calltype": incoming,
+"callstatus": missed,
+"tonumber": +17865288751,
+"fromnumber": +17173892731,
+"disposition": not disposed,
+"fname": Don,
+"lname": Draper,
+"email": rachel@nativevanlines.com,
+"recordingurl": https://calls.kixie.com/dd8d5a30-1fe3-11ec-af76-a9e254ddad02.mp3,
+"crmlink": "https://app.copper.com/companies/430157/app?p=db#/lead/72255800" ,
+"dealid": "",
+"contactid": "",
+"oauth_token": S6wMfO55gbIE4SJ9zBajvj1ytYrCOeQ8
+}
+}
